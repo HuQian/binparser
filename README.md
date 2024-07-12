@@ -1,5 +1,6 @@
 # binparser
 
+```
 void p_hook (uint8* data, int size) {
 
 }
@@ -20,3 +21,4 @@ void p_hook (uint8* data, int size) {
     }
 }
 
+```
